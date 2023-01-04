@@ -57,10 +57,6 @@ programming related problems and developing smaller programs ranging from bash c
 
 <div align="center">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=KyleSmith19091&theme=nord&hide_border=true">
-<hr /> 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=KyleSmith19091&theme=github">
-<hr />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleSmith19091&show_icons=true&theme=nord">
 </div>
 
 ## Find Me On
