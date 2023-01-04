@@ -39,7 +39,7 @@ programming related problems and developing smaller programs ranging from bash c
 
 </div>
 
-### Tools 💻
+### Tools & Technologies 💻
 <div align="center">
 
 ![Opencv](https://img.shields.io/badge/Opencv-white?style=for-the-badge&logo=opencv)
@@ -47,8 +47,9 @@ programming related problems and developing smaller programs ranging from bash c
 ![Intellij](https://img.shields.io/badge/Intellij-white?style=for-the-badge&logo=intellijidea)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=docker)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
 </div>
 
