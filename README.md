@@ -12,7 +12,7 @@ const Coder = {
 }
 ```
 
-The name is Kyle and I have been inputting text into a computer so that it can do cool stuff since I was 12. I am currently a **computer science student** at the **University of Pretoria** in South Africa. Programming to me is a way of staying sane in a world which I find to be crazy and weird.
+The name is Kyle and I have been inputting text into a computer so that it can do cool stuff since I was 12. Currently working full-time as a software-engineer and doing research with the University of Pretoria part time. Programming to me is a way of staying sane in a world which I find to be crazy and weird.
 My programming experience comes from the five years of Robotics Programming for our High School team. I spend most of my time solving online
 programming related problems and developing smaller programs ranging from bash commands to stock screeners.
 
