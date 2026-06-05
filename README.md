@@ -30,6 +30,7 @@ I have been inputting text into a computer so that it can do cool stuff since I 
 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
 
 </div>
 
