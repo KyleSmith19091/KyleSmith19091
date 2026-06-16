@@ -29,8 +29,9 @@ I have been inputting text into a computer so that it can do cool stuff since I 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+![Zig](https://img.shields.io/badge/Zig-blue?style=for-the-badge&logo=zig)
 ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk)
 
 </div>
 
