@@ -14,7 +14,9 @@ module Profile = struct
 
 I have been inputting text into a computer so that it can do cool stuff since I was 12. Currently working full-time as a software-engineer. Programming to me is a way of staying sane in a world which I find to be crazy and weird.
 
+<div align="center">
 <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
 
 ## Technologies and Tools 
 
